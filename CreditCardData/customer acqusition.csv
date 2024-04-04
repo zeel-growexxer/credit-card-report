@@ -1,0 +1,101 @@
+No,Customer,Age,City,Product,Limit,Company,Segment
+1,A1,76,BLR,Gold,500000,C1,Self Employed
+2,A2,71,CCU,Silver,100000,C2,Salaried_MNC
+3,A3,34,COK,Platimum,10000,C3,Salaried_Pvt
+4,A4,47,BOM,Platimum,10001,C4,Govt
+5,A5,56,BLR,Platimum,10002,C5,Normal Salary
+6,A6,70,DEL,Silver,100000,C6,Self Employed
+7,A7,26,COK,Silver,100001,C7,Salaried_MNC
+8,A8,67,PAT,Silver,100002,C8,Salaried_Pvt
+9,A9,79,MAA,Silver,100003,C9,Govt
+10,A10,54,CCU,Gold,500000,C10,Normal Salary
+11,A11,35,COK,Gold,500000,C11,Normal Salary
+12,A12,51,BOM,Gold,500000,C12,Self Employed
+13,A13,29,BLR,Gold,500000,C13,Salaried_MNC
+14,A14,16,BLR,Gold,500000,C14,Salaried_Pvt
+15,A15,25,CCU,Gold,500000,C15,Govt
+16,A16,52,COK,Gold,500000,C16,Normal Salary
+17,A17,78,BOM,Gold,500000,C17,Self Employed
+18,A18,34,BLR,Silver,100000,C18,Salaried_MNC
+19,A19,27,BLR,Platimum,10000,C19,Salaried_Pvt
+20,A20,27,CCU,Platimum,10001,C20,Govt
+21,A21,57,COK,Platimum,10002,C21,Normal Salary
+22,A22,27,BOM,Silver,100000,C22,Self Employed
+23,A23,51,BLR,Silver,100001,C5,Salaried_MNC
+24,A24,53,DEL,Silver,100002,C6,Salaried_Pvt
+25,A25,35,COK,Silver,100003,C7,Govt
+26,A26,38,PAT,Gold,500000,C8,Normal Salary
+27,A27,24,MAA,Gold,500000,C9,Self Employed
+28,A28,36,TRV,Gold,500000,C10,Salaried_MNC
+29,A29,72,CCU,Gold,500000,C11,Salaried_Pvt
+30,A30,25,BLR,Gold,500000,C12,Govt
+31,A31,63,CCU,Gold,500000,C13,Normal Salary
+32,A32,41,COK,Gold,500000,C14,Self Employed
+33,A33,19,BOM,Platimum,10002,C15,Salaried_MNC
+34,A34,34,CCU,Platimum,100000,C16,Salaried_Pvt
+35,A35,55,COK,Platimum,100001,C17,Govt
+36,A36,60,BOM,Platimum,100002,C18,Normal Salary
+37,A37,61,BLR,Platimum,100003,C19,Normal Salary
+38,A38,47,MAA,Platimum,500000,C20,Self Employed
+39,A39,78,TRV,Platimum,500000,C21,Salaried_MNC
+40,A40,37,CCU,Platimum,500000,C22,Salaried_Pvt
+41,A41,13,COK,Platimum,500000,C23,Govt
+42,A42,50,BOM,Gold,500000,C24,Normal Salary
+43,A43,21,BLR,Gold,500000,C25,Self Employed
+44,A44,28,DEL,Gold,500000,C6,Salaried_MNC
+45,A45,67,COK,Gold,500000,C7,Salaried_Pvt
+46,A46,49,PAT,Silver,100000,C8,Govt
+47,A47,28,MAA,Platimum,10000,C9,Normal Salary
+48,A48,42,TRV,Platimum,10001,C10,Self Employed
+49,A49,39,CCU,Platimum,10002,C11,Salaried_MNC
+50,A50,69,COK,Platimum,100000,C12,Salaried_Pvt
+51,A51,59,BOM,Platimum,100001,C13,Govt
+52,A52,50,BLR,Platimum,100002,C14,Normal Salary
+53,A53,21,DEL,Platimum,100003,C15,Normal Salary
+54,A54,46,COK,Platimum,500000,C16,Normal Salary
+55,A55,43,PAT,Platimum,500000,C17,Normal Salary
+56,A56,60,MAA,Platimum,500000,C18,Normal Salary
+57,A57,37,TRV,Silver,100001,C19,Normal Salary
+58,A58,32,CCU,Silver,100002,C20,Normal Salary
+59,A59,74,BLR,Silver,100003,C21,Normal Salary
+60,A60,28,CCU,Gold,500000,C22,Salaried_Pvt
+61,A61,44,COK,Gold,500000,C23,Govt
+62,A62,39,BOM,Gold,500000,C24,Normal Salary
+63,A63,15,BLR,Gold,500000,C25,Self Employed
+64,A64,77,DEL,Gold,500000,C26,Salaried_MNC
+65,A65,41,COK,Gold,500000,C27,Salaried_Pvt
+66,A66,77,PAT,Gold,500000,C28,Govt
+67,A67,54,MAA,Gold,500000,C29,Normal Salary
+68,A68,12,TRV,Silver,100000,C30,Self Employed
+69,A69,33,CCU,Platimum,10000,C31,Self Employed
+70,A70,16,BOM,Platimum,10001,C32,Self Employed
+71,A71,34,BOM,Platimum,10002,C33,Self Employed
+72,A72,63,BLR,Silver,100000,C34,Self Employed
+73,A73,75,CCU,Silver,100001,C35,Self Employed
+74,A74,51,COK,Silver,100002,C36,Self Employed
+75,A75,36,BOM,Silver,100003,C37,Self Employed
+76,A76,66,BLR,Silver,500000,C38,Self Employed
+77,A77,35,BLR,Silver,500000,C39,Self Employed
+78,A78,71,CCU,Silver,500000,C40,Self Employed
+79,A79,60,COK,Silver,500000,C41,Govt
+80,A80,39,BOM,Silver,500000,C3,Govt
+81,A81,65,BLR,Gold,500000,C4,Govt
+82,A82,52,DEL,Gold,500000,C5,Govt
+83,A83,37,COK,Platimum,10002,C6,Govt
+84,A84,70,PAT,Silver,100000,C7,Govt
+85,A85,59,MAA,Silver,100001,C8,Govt
+86,A86,25,TRV,Silver,100002,C9,Govt
+87,A87,27,CCU,Silver,100003,C10,Govt
+88,A88,63,BLR,Gold,500000,C11,Govt
+89,A89,72,CCU,Gold,500000,C12,Govt
+90,A90,16,COK,Gold,500000,C13,Govt
+91,A91,41,BOM,Gold,500000,C14,Govt
+92,A92,78,BLR,Gold,500000,C15,Govt
+93,A93,56,DEL,Gold,500000,C16,Govt
+94,A94,31,COK,Gold,500000,C17,Govt
+95,A95,62,PAT,Gold,500000,C18,Salaried_MNC
+96,A96,54,MAA,Silver,100000,C19,Salaried_Pvt
+97,A97,58,TRV,Platimum,10000,C20,Govt
+98,A98,51,CCU,Platimum,10001,C21,Normal Salary
+99,A99,35,CCU,Platimum,10002,C22,Self Employed
+100,A100,36,COK,Silver,100000,C5,Salaried_MNC
